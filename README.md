@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of secretwebmaster/flarum-fake-users.** Not for installation: use [Packagist](https://packagist.org/packages/secretwebmaster/flarum-fake-users) or the [upstream repository](https://github.com/secretwebmaster/flarum-fake-users).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/secretwebmaster-flarum-fake-users/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/secretwebmaster-flarum-fake-users/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2024-04-16 | `^1.0` | [Browse](https://github.com/flarchive/secretwebmaster-flarum-fake-users/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/secretwebmaster-flarum-fake-users.json](https://github.com/flarchive/archive-index/blob/main/packages/secretwebmaster-flarum-fake-users.json)
 
